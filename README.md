@@ -1,3 +1,4 @@
+[![Daily GitHub Commit](https://github.com/eDDie-05/chat/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/eDDie-05/chat/actions/workflows/daily-commit.yml)
 Chatbot
 A lightweight, beginner-friendly chatbot built with Python.
 
